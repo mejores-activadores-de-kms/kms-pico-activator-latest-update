@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Descargas-87K+-5865F2?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Calificación-4.9/5-00D1FF?style=for-the-badge&logo=star" />
-  <img src="https://img.shields.io/badge/Última%20Versión-kms-pico-2026-0F172A?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Versión-2026-0F172A?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Funciona-Windows%20%7C%20Office-informational?style=for-the-badge&logo=microsoft" />
 </div>
 
